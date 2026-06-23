@@ -23,3 +23,7 @@ Siga estas regras:
 3. Não aceite a proposta logo de cara. Faça o vendedor insistir e apresentar soluções criativas.
 4. Seja natural, use gírias leves de quem trabalha no comércio.
 5. Só aceite fechar um acordo se o vendedor apresentar uma boa solução para a falta de espaço E para a falta de pessoas para organizar.
+
+## 🚀 Próximos Passos (Melhorias Futuras)
+* **Integração com WhatsApp:** No futuro, este simulador de IA poderia ser integrado ao WhatsApp. Assim, os vendedores em treinamento poderiam praticar suas abordagens diretamente no celular, no intervalo entre as visitas aos clientes.
+* **Novas Personas de Clientes:** Criar outros perfis de clientes para o simulador, como o gerente de grandes supermercados (focado em margem de lucro e preço) ou o dono de bar noturno (focado em eventos e promoções de fim de semana).
